@@ -1,0 +1,140 @@
+
+1 ms: |-0-><-32-><-0-| ms: 1, duration: 1
+  start: FFFFFFFC
+diff: 1 millis: FFFFFFFD alarmTime: FFFFFFFD
+diff: 1 millis: FFFFFFFE alarmTime: FFFFFFFE
+diff: 1 millis: FFFFFFFF alarmTime: FFFFFFFF
+diff: 1 millis: 0 alarmTime: 0
+diff: 1 millis: 1 alarmTime: 1
+  start: 7FFFFFFD
+diff: 1 millis: 7FFFFFFE alarmTime: 7FFFFFFE
+diff: 1 millis: 7FFFFFFF alarmTime: 7FFFFFFF
+diff: 1 millis: 80000000 alarmTime: 80000000
+diff: 1 millis: 80000001 alarmTime: 80000001
+diff: 1 millis: 80000002 alarmTime: 80000002
+
+12 ms: |-0-><-32-><-0-| ms: 12, duration: 12
+  start: FFFFFFDB
+diff: 12 millis: FFFFFFE7 alarmTime: FFFFFFE7
+diff: 12 millis: FFFFFFF3 alarmTime: FFFFFFF3
+diff: 12 millis: FFFFFFFF alarmTime: FFFFFFFF
+diff: 12 millis: B alarmTime: B
+diff: 12 millis: 17 alarmTime: 17
+  start: 7FFFFFDC
+diff: 12 millis: 7FFFFFE8 alarmTime: 7FFFFFE8
+diff: 12 millis: 7FFFFFF4 alarmTime: 7FFFFFF4
+diff: 12 millis: 80000000 alarmTime: 80000000
+diff: 12 millis: 8000000C alarmTime: 8000000C
+diff: 12 millis: 80000018 alarmTime: 80000018
+
+1x8ms: |-21-><-8-><-3-| ms: 8, duration: 1
+  start: FFFFFFE7
+diff: 9 millis: FFFFFFF0 alarmTime: FFFFFFFE
+diff: 8 millis: FFFFFFF8 alarmTime: FFFFFFFF
+diff: 8 millis: 0 alarmTime: 0
+diff: 8 millis: 8 alarmTime: 1
+diff: 8 millis: 10 alarmTime: 2
+  start: 7FFFFFE8
+diff: 8 millis: 7FFFFFF0 alarmTime: FFFFFFFE
+diff: 8 millis: 7FFFFFF8 alarmTime: FFFFFFFF
+diff: 8 millis: 80000000 alarmTime: 0
+diff: 8 millis: 80000008 alarmTime: 1
+diff: 8 millis: 80000010 alarmTime: 2
+
+127x8ms: |-21-><-8-><-3-| ms: 1016, duration: 127
+  start: FFFFF417
+diff: 1017 millis: FFFFF810 alarmTime: 2
+diff: 1016 millis: FFFFFC08 alarmTime: FFFFFF81
+diff: 1016 millis: 0 alarmTime: 0
+diff: 1016 millis: 3F8 alarmTime: 7F
+diff: 1016 millis: 7F0 alarmTime: FFFFFFFE
+  start: 7FFFF418
+diff: 1016 millis: 7FFFF810 alarmTime: 2
+diff: 1016 millis: 7FFFFC08 alarmTime: FFFFFF81
+diff: 1016 millis: 80000000 alarmTime: 0
+diff: 1016 millis: 800003F8 alarmTime: 7F
+diff: 1016 millis: 800007F0 alarmTime: FFFFFFFE
+
+3 seconds: |-6-><-16-><-10-| ms: 3000, duration: 3
+  start: FFFFDCD7
+diff: 3881 millis: FFFFEC00 alarmTime: FFFFFFFB
+diff: 3072 millis: FFFFF800 alarmTime: FFFFFFFE
+diff: 3072 millis: 400 alarmTime: 1
+diff: 3072 millis: 1000 alarmTime: 4
+diff: 3072 millis: 1C00 alarmTime: 7
+  start: 7FFFDCD8
+diff: 3880 millis: 7FFFEC00 alarmTime: FFFFFFFB
+diff: 3072 millis: 7FFFF800 alarmTime: FFFFFFFE
+diff: 3072 millis: 80000400 alarmTime: 1
+diff: 3072 millis: 80001000 alarmTime: 4
+diff: 3072 millis: 80001C00 alarmTime: 7
+
+3 seconds: |-14-><-8-><-10-| ms: 3000, duration: 3
+  start: FFFFDCD7
+diff: 3881 millis: FFFFEC00 alarmTime: FFFFFFFB
+diff: 3072 millis: FFFFF800 alarmTime: FFFFFFFE
+diff: 3072 millis: 400 alarmTime: 1
+diff: 3072 millis: 1000 alarmTime: 4
+diff: 3072 millis: 1C00 alarmTime: 7
+  start: 7FFFDCD8
+diff: 3880 millis: 7FFFEC00 alarmTime: FFFFFFFB
+diff: 3072 millis: 7FFFF800 alarmTime: FFFFFFFE
+diff: 3072 millis: 80000400 alarmTime: 1
+diff: 3072 millis: 80001000 alarmTime: 4
+diff: 3072 millis: 80001C00 alarmTime: 7
+
+3 seconds: |-16-><-16-><-0-| ms: 3000, duration: 3000
+  start: FFFFDCD7
+diff: 3000 millis: FFFFE88F alarmTime: FFFFE88F
+diff: 3000 millis: FFFFF447 alarmTime: FFFFF447
+diff: 3000 millis: FFFFFFFF alarmTime: FFFFFFFF
+diff: 3000 millis: BB7 alarmTime: BB7
+diff: 3000 millis: 176F alarmTime: 176F
+  start: 7FFFDCD8
+diff: 3000 millis: 7FFFE890 alarmTime: FFFFE890
+diff: 3000 millis: 7FFFF448 alarmTime: FFFFF448
+diff: 3000 millis: 80000000 alarmTime: 0
+diff: 3000 millis: 80000BB8 alarmTime: BB8
+diff: 3000 millis: 80001770 alarmTime: 1770
+
+1 minutes: |-0-><-16-><-16-| ms: 60000, duration: 1
+  start: FFFD40DF
+diff: 114465 millis: FFFF0000 alarmTime: FFFFFFFF
+diff: 65536 millis: 0 alarmTime: 0
+diff: 65536 millis: 10000 alarmTime: 1
+diff: 65536 millis: 20000 alarmTime: 2
+diff: 65536 millis: 30000 alarmTime: 3
+  start: 7FFD40E0
+diff: 114464 millis: 7FFF0000 alarmTime: 7FFF
+diff: 65536 millis: 80000000 alarmTime: FFFF8000
+diff: 65536 millis: 80010000 alarmTime: FFFF8001
+diff: 65536 millis: 80020000 alarmTime: FFFF8002
+diff: 65536 millis: 80030000 alarmTime: FFFF8003
+
+3 minutes: |-0-><-16-><-16-| ms: 180000, duration: 3
+  start: FFF7C29F
+diff: 212321 millis: FFFB0000 alarmTime: FFFFFFFB
+diff: 196608 millis: FFFE0000 alarmTime: FFFFFFFE
+diff: 196608 millis: 10000 alarmTime: 1
+diff: 196608 millis: 40000 alarmTime: 4
+diff: 196608 millis: 70000 alarmTime: 7
+  start: 7FF7C2A0
+diff: 212320 millis: 7FFB0000 alarmTime: 7FFB
+diff: 196608 millis: 7FFE0000 alarmTime: 7FFE
+diff: 196608 millis: 80010000 alarmTime: FFFF8001
+diff: 196608 millis: 80040000 alarmTime: FFFF8004
+diff: 196608 millis: 80070000 alarmTime: FFFF8007
+
+23 days: |-0-><-8-><-24-| ms: 1987200000, duration: 119
+  start: 9CA933FF
+diff: 2002177025 millis: 14000000 alarmTime: 14
+diff: 1996488704 millis: 8B000000 alarmTime: FFFFFF8B
+diff: 1996488704 millis: 2000000 alarmTime: 2
+diff: 1996488704 millis: 79000000 alarmTime: 79
+diff: 1996488704 millis: F0000000 alarmTime: FFFFFFF0
+  start: 1CA93400
+diff: 2002177024 millis: 94000000 alarmTime: FFFFFF94
+diff: 1996488704 millis: B000000 alarmTime: B
+diff: 1996488704 millis: 82000000 alarmTime: FFFFFF82
+diff: 1996488704 millis: F9000000 alarmTime: FFFFFFF9
+diff: 1996488704 millis: 70000000 alarmTime: 70
